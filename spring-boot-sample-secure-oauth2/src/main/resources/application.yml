@@ -1,0 +1,31 @@
+spring:
+  profiles:
+    active: development
+---
+spring:
+  profiles: development 
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/test1?useSSL=false
+    username: root
+    password: 123456
+    schema-username: root
+    schema-password: 123456
+    data-username: root
+    data-password: 123456
+    platform: mysql
+    schema: classpath:schema.sql
+    data: classpath:data.sql
+    continue-on-error: true
+    initialization-mode: always
+security:
+  oauth2:
+    client:
+      client-id: foo
+      client-secret: bar
+    authorization:
+      check-token-access: isAuthenticated()
+logging:
+  level:
+    org.springframework.security: DEBUG
+       

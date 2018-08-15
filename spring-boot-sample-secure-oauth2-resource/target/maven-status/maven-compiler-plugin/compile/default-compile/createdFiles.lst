@@ -1,0 +1,3 @@
+com/contoso/domain/Flight.class
+com/contoso/SampleSecureOAuth2ResourceApplication.class
+com/contoso/repository/FlightRepository.class

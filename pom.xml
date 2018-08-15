@@ -14,5 +14,8 @@
 
   <modules>
   	<module>spring-boot-sample-secure-oauth2</module>
+  	<module>spring-boot-sample-secure-oauth2-resource</module>
+  	<module>spring-boot-sample-secure-oauth2-actuator</module>
+  	<module>spring-boot-sample-web-secure-github</module>
   </modules>
 </project>

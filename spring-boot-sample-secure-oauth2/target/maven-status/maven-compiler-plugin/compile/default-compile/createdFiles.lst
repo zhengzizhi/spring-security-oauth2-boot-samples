@@ -1,0 +1,5 @@
+com/contoso/SampleSecureOAuth2Application.class
+com/contoso/domain/Flight.class
+com/contoso/api/FlightController.class
+com/contoso/repository/FlightRepository.class
+com/contoso/config/AuthenticationConfiguration.class

@@ -1,0 +1,5 @@
+/opt/coding/spring-security-oauth2-boot-samples/spring-boot-sample-secure-oauth2/src/main/java/com/contoso/domain/Flight.java
+/opt/coding/spring-security-oauth2-boot-samples/spring-boot-sample-secure-oauth2/src/main/java/com/contoso/SampleSecureOAuth2Application.java
+/opt/coding/spring-security-oauth2-boot-samples/spring-boot-sample-secure-oauth2/src/main/java/com/contoso/api/FlightController.java
+/opt/coding/spring-security-oauth2-boot-samples/spring-boot-sample-secure-oauth2/src/main/java/com/contoso/repository/FlightRepository.java
+/opt/coding/spring-security-oauth2-boot-samples/spring-boot-sample-secure-oauth2/src/main/java/com/contoso/config/AuthenticationConfiguration.java

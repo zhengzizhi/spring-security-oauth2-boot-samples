@@ -1,0 +1,2 @@
+/opt/coding/spring-security-oauth2-boot-samples/spring-boot-sample-secure-oauth2-actuator/src/main/java/com/contoso/SampleSecureOAuth2ActuatorApplication.java
+/opt/coding/spring-security-oauth2-boot-samples/spring-boot-sample-secure-oauth2-actuator/src/main/java/com/contoso/config/ActuatorSecurityConfiguration.java
