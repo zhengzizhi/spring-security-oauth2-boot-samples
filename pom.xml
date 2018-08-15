@@ -12,4 +12,7 @@
 
   <name>spring-security-oauth2-boot-samples</name>
 
+  <modules>
+  	<module>spring-boot-sample-secure-oauth2</module>
+  </modules>
 </project>
